@@ -31,7 +31,44 @@
            b) back
 
  ### ------> Screen-Shots
- 
- 
-       ![Screenshot (65)](https://github.com/MARIA-ARUNKUMAR/SwingATMProject/assets/141246328/a7b36d27-500d-42a8-8282-9306378a0dda)
+ 1) Log-In Frame
+
+ ![Screenshot (65)](https://github.com/MARIA-ARUNKUMAR/SwingATMProject/assets/141246328/c2e2a4a6-332e-44bc-b219-53d23d19eff8)
+
+ 2) Sign-Up Frame
+
+ ![Screenshot (66) pngg](https://github.com/MARIA-ARUNKUMAR/SwingATMProject/assets/141246328/811d6ca2-0d69-4495-a9a0-0dd2f147b6d1)
+
+ 3) Selection Frame
+![Screenshot (67)](https://github.com/MARIA-ARUNKUMAR/SwingATMProject/assets/141246328/c4471959-278d-43bc-9e9e-c41ab8a12d58)
+
+4) Statement Frame
+![statement](https://github.com/MARIA-ARUNKUMAR/SwingATMProject/assets/141246328/364dff04-9f75-4da8-ab49-3bc175650472)
+
+5) Deposite Frame
+
+![deposite](https://github.com/MARIA-ARUNKUMAR/SwingATMProject/assets/141246328/eabf09d7-1957-42e8-b9aa-e5bb666d4801)
+
+6) Withdraw Frame
+
+ ![withdrawl](https://github.com/MARIA-ARUNKUMAR/SwingATMProject/assets/141246328/36c98e47-1245-4d27-a760-12bfe24d1512)
+
+ 7) Fast-Cash Frame
+
+  ![fast cash](https://github.com/MARIA-ARUNKUMAR/SwingATMProject/assets/141246328/4d8c1f87-6a9e-4347-a422-629cfec37c67)
+
+  8) Change-Pin Frame
+
+  ![change pin](https://github.com/MARIA-ARUNKUMAR/SwingATMProject/assets/141246328/42d3617d-f255-47c6-9be1-2e3fab3b1881)
+
+     
+  
+
+   
+
+   
+
+    
+
+
 
